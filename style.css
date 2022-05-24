@@ -142,9 +142,7 @@ header ul li :hover{
 
 /* PHONES */
 @media screen and (max-width: 450px) {
-    body {
-      background-color: rgb(6, 10, 6);
-    }
+    
     .circle{
         display: none;
     }
@@ -153,9 +151,7 @@ header ul li :hover{
 
 /* TABLETS */
 @media screen and (min-width: 451px) {
-    body {
-      background-color: rgb(190, 180, 67);
-    }
+    
     .content .content-txt{
         position: relative;
         width: 700px;
@@ -198,9 +194,7 @@ header ul li :hover{
 
 /* LAPTOPS */
   @media screen and (min-width: 900px) {
-    body {
-      background-color: rgb(141, 18, 117);
-    }
+
     .content .content-txt{
         position: relative;
         width: 700px;
@@ -239,9 +233,7 @@ header ul li :hover{
 
 /* SMALL MONITORS */
   @media screen and (min-width: 1280px) {
-    body {
-      background-color: lightgreen;
-    }
+   
     section{
         min-height: 100vh;
         padding: 100px 200px;
@@ -267,9 +259,7 @@ header ul li :hover{
  /* MONITORS */
   @media screen and (min-width: 1500px) {
 
-    body {
-      background-color: rgb(144, 233, 238);
-    }
+  
     section{
         min-height: 100vh;
         padding: 100px 200px;
